@@ -16,5 +16,5 @@ Contributions, suggestions, or corrections are always welcome! If you'd like to 
 
 Good luck, and have fun learning German! Viel Erfolg und viel Spaß beim Deutschlernen! 🇩🇪
 
-> This repos structure might change in the future. I'm considering a wiki page maybe.
-> If anyone wants to help, Contact me at Telegram `@Afakari`.
+> This repos structure may change in the future. I'm considering a wiki page maybe.
+> If anyones interested to help, Contact me at Telegram `@Afakari`.
