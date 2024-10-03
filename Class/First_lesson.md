@@ -1,4 +1,4 @@
-# First lesson
+Ui# First lesson
 ## Personal Pronouns:
 the frist lesson will be the personal pronouns and usage in german:
 
@@ -64,14 +64,6 @@ As in **To spell**:
 | Sie                | buchstabieren                      | you spell (formal)       |
 
 ---
-
-**2024-10-03 10:28:00**
-
-Understanding **German verbs** and their conjugation is essential for mastering the language, especially because their forms change based on the pronouns (subjects) that govern them. This change in form is called **verb conjugation**.
-
-Here’s a general explanation of how verbs work in German and their relationship with pronouns:
-
-----------
 
 ###  **Conjugation Patterns for Regular Verbs**
 
